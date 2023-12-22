@@ -40,9 +40,9 @@ with open("sample1.txt", "r") as firstfile:
             secondfile.write(line)  
 ```
 ### OUTPUT:
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/copy-file/main/Screenshot%202023-12-22%20150028.png)
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/copy-file/main/Screenshot%202023-12-22%20150042.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
